@@ -7,3 +7,5 @@ WIth tektoncd: https://docs.google.com/document/d/1pH9wyVaGVLjnhi5tOa2TSq7d1j5HT
 
 official doc: https://www.openpolicyagent.org/docs/latest/
 Opa and constest: https://garethr.dev/2019/06/introducing-conftest/
+
+Installation: https://www.openpolicyagent.org/docs/v0.12.2/kubernetes-admission-control/
